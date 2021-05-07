@@ -18,7 +18,7 @@
                 </li>
                 <li>
                     <a href="{{route('pagina-news')}}">
-                        News
+                        News 
                     </a>
                 </li>
             </ul>
